@@ -3,7 +3,7 @@
 ## Description
 This application builds the backend for an e-commerce site using express.js, mysql2 and sequelize.
 
-- [See full video walk through of the e-commerce application](https://drive.google.com/f)
+- [See full video walk through of the e-commerce application](https://drive.google.com/file/d/15QqkmA3oMD_yla-WcmGA6n9LbifPQ5ZD/view)
 - [See the GitHub Repository for this application here](https://github.com/Lydia-tech/e-commerce)
 
 ## Table of Contents
@@ -33,7 +33,7 @@ Required Installation
 7. npm run seed to seed data to your database so that you can test your routes
 8. npm start to open the server
 9. Test your routes in Insomnia Core
-   - [See full video walk through of the e-commerce application](https://drive.google.com/file/d/1TJJ8XPeHksgAOmIK4R7D5_xCovCt1r3q/view)
+   - [See full video walk through of the e-commerce application](https://drive.google.com/file/d/15QqkmA3oMD_yla-WcmGA6n9LbifPQ5ZD/view)
 
 ## Contributors
 Lydia Kennedy
